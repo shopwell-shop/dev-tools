@@ -1,5 +1,7 @@
 {
     "name": "shopwell/dev-tools",
+    "description": "Development and test utilities for Shopwell projects",
+    "homepage": "https://github.com/shopwell-shop/dev-tools",
     "license": "Apache-2.0",
     "require": {
         "doctrine/sql-formatter": "^1.1",
