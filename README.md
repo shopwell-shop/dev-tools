@@ -24,4 +24,4 @@ If you would like to contribute to this package, please fork the repository and 
 
 ## License
 
-This package is licensed under the MIT license. See the LICENSE file for more information.
+This Shopwell package is licensed under the Apache License 2.0. See LICENSE for the project license and NOTICE for the preserved upstream MIT license.
